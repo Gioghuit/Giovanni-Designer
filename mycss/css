@@ -1,0 +1,9 @@
+.content{
+
+  width: auto;
+  height: auto;
+  background-color: red;
+  box-shadow: 13px;
+
+
+}
