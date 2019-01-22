@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 Hello World
 
@@ -15,9 +16,7 @@ Heading 1
 Heading2
 --------
 
-
-
-
+***
 #I'M A HEADER 1
 ## I'M A HEADER 2
 ###I'M A HEADER 3
@@ -44,6 +43,7 @@ New USers Github Guest..
 Improve to more...Below Box
 
 
+
 ```
 atom-text-editor{
   .line
@@ -66,6 +66,7 @@ atom-text-editor{
 }
 ```
 
+#mathjax
 
 ***
 + [ ] As with unordered lists. The Checkbox is checked
@@ -77,6 +78,14 @@ atom-text-editor{
 <https://youtrack.jetbrains.com/issues> @Astrocode
 
 ![JetBrains logo](https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg "JetBrains")
+---
+
+[JETBRAINS](http://www.pix-brain.com)
+Math$$\int_0rmula$$ 😄
+$$\int_0ˆ\infty\mathrm{e}ˆ{-x}\,\mathrm{d}x$$
+$$\sum_{i=1}ˆ{10}t_i$$
+$$\frac{n!}{k!(n-k)!}$$ 🐊🐾
+
 ---
 [![YouTrack — Maintain Order In A World of Chaos](https://img.youtube.com/vi/rhAunB7UQFQ/sddefault.jpg)](https://www.youtube.com/watch?v=rhAunB7UQFQ)
 ---
